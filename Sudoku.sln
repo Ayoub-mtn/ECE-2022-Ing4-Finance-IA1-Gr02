@@ -35,7 +35,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sudoku.PSOSolvers", "Sudoku
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sudoku.Graphecolore", "Sudoku.Graphecolore\Sudoku.Graphecolore.csproj", "{FDE3A1B7-C8E0-465E-A4D7-EEA9DDA58B6E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sudoku.CNN", "sudoku.CNN\sudoku.CNN.csproj", "{39600E92-002B-4F8B-BC77-304FB0C6DDE7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sudoku.NORVIGE", "sudoku.CNN\sudoku.CNN.csproj", "{39600E92-002B-4F8B-BC77-304FB0C6DDE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku.Norvige", "Sudoku.Norvige\Sudoku.Norvige.csproj", "{D33003BB-05A4-416B-B89F-752CEF5AC165}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{39600E92-002B-4F8B-BC77-304FB0C6DDE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39600E92-002B-4F8B-BC77-304FB0C6DDE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39600E92-002B-4F8B-BC77-304FB0C6DDE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D33003BB-05A4-416B-B89F-752CEF5AC165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D33003BB-05A4-416B-B89F-752CEF5AC165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D33003BB-05A4-416B-B89F-752CEF5AC165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D33003BB-05A4-416B-B89F-752CEF5AC165}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

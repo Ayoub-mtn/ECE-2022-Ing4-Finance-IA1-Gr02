@@ -1,4 +1,14 @@
-﻿using System;
+﻿
+// See https://aka.ms/new-console-template for more information
+using Sudoku.Shared;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+
+namespace Sudoku.Norvige
+
+{
+    using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Linq;
@@ -378,4 +388,6 @@ static class LinqSudokuSolver {
         Console.WriteLine("Press enter to finish");
         Console.ReadLine();
     }
+}
+
 }
